@@ -6,4 +6,5 @@ metadata:
     github.com/project-slug: dx-pil/test-spring
 spec:
   type: other
+  owner: DX-PIL
   lifecycle: unknown
