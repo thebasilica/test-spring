@@ -2,7 +2,7 @@ FROM openjdk:11-jre-slim as builder
 
 # LABELS
 LABEL MAINTAINER="platform engineering"
-LABEL engineer="bryan oakley-wiggins"
+LABEL engineer="bow"
 LABEL version="0.0.1"
 LABEL description="basic image for smoke test app"
 
